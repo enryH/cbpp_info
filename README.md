@@ -20,11 +20,10 @@ Providing information for starting as a new PhD student from abroad in Copenhage
   - give a priority of different options
 - Housing (Basecamp, Housing Foundation, Private Housing)
 - Arriving as EU citizen
-- ISM vs Borgerservice 
-- 
+- ISM vs Borgerservice
 
-## bikes 
-- something on bikes
+## Setup
+See [description in setup.md](setup.md).
 
 ### Who does what
 
