@@ -20,7 +20,7 @@ Providing information for starting as a new PhD student from abroad in Copenhage
   - give a priority of different options
 - Housing (Basecamp, Housing Foundation, Private Housing)
 - Arriving as EU citizen
-- ISM vs Burgerservice 
+- ISM vs Borgerservice 
 - 
 
 ### Who does what
