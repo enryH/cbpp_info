@@ -23,6 +23,9 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 - ISM vs Borgerservice 
 - 
 
+## bikes 
+- something on bikes
+
 ### Who does what
 
 name(s)     | topic
