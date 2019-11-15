@@ -13,3 +13,10 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 ## Resources
 - [Minimal](https://github.com/pages-themes/minimal) Github Theme
 - Karl Bromans Tutorial on creating a [simple site](https://github.com/kbroman/simple_site)
+
+## What information to provide
+- [lifex website](https://www.joinlifex.com/copenhagen/moving-to-copenhagen-denmark) on how to get started in Copenhagen
+  - put into perspective what you have to do
+- Housing (Basecamp, Housing Foundation, Private Housing)
+- Arriving as EU citizen
+- ISM vs Burgerservice 
