@@ -17,6 +17,21 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 ## What information to provide
 - [lifex website](https://www.joinlifex.com/copenhagen/moving-to-copenhagen-denmark) on how to get started in Copenhagen
   - put into perspective what you have to do
+  - give a priority of different options
 - Housing (Basecamp, Housing Foundation, Private Housing)
 - Arriving as EU citizen
 - ISM vs Burgerservice 
+- 
+
+### Who does what
+
+name(s)     | topic
+---         | ---
+Heidi       | When to get money, expectation, reality
+Holda, Dora | Non-EU-Citizen
+Marina      | Housing stuff besides IKEA
+Tina        | BaseCamp
+Henry, Mattias | Banking
+Henry, Mari, Matthias | Bikes
+
+> Ben had ready everything within one month
