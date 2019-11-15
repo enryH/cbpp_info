@@ -20,8 +20,11 @@ Providing information for starting as a new PhD student from abroad in Copenhage
   - give a priority of different options
 - Housing (Basecamp, Housing Foundation, Private Housing)
 - Arriving as EU citizen
-- ISM vs Burgerservice 
+- ISM vs Borgerservice 
 - 
+
+## bikes 
+- something on bikes
 
 ### Who does what
 
@@ -31,7 +34,7 @@ Heidi       | When to get money, expectation, reality
 Holda, Dora | Non-EU-Citizen
 Marina      | Housing stuff besides IKEA
 Tina        | BaseCamp
-Henry, Mattias | Banking
+Henry, Matthias | Banking
 Henry, Mari, Matthias | Bikes
 
 > Ben had ready everything within one month
