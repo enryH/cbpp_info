@@ -34,6 +34,6 @@ Holda, Dora | Non-EU-Citizen
 Marina      | Housing stuff besides IKEA
 Tina        | BaseCamp
 Henry, Matthias | Banking
-Henry, Mari, Matthias | Bikes
+Henry, Mari, Matthias | [Bikes](bikes.md)
 
 > Ben had ready everything within one month
