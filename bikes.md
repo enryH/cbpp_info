@@ -4,7 +4,7 @@ You need a bike in Copenhagen. There is just no way around it.
 
 ## Rental Bikes
 
-Buying one here, even from a second hand store, might be a bit pricy, especially if you haven't been paid yet. Luckily there are retal options available to get started.
+Buying one here, even from a second hand store, might be a bit pricy. That's makes things especially difficult if you haven't been paid yet. Luckily there are retal options available to get started.
 
 ### Swapfiets
 
