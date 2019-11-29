@@ -1,0 +1,4 @@
+# What to know as a non-EU citizen
+## Before moving
+Visa application will be done by an HR representative. All you need to do is wait for the email from them and provide the information they ask. Once application is submitted, you need to go to your embassy, etc. Paperwork will be processed and you will receive your visa in the mail. Keep in mind that the embassy charges a separate fee than the website and that you will have to pay both. 
+The visa letter will contain your CPR number. However, this has not yet been registered. Once you arrive you have to go to the website (insert link here) and register your CPR number. You will get a confirmation and about 1 week later you will be called to the international office to receive the letter. After one more week, your danish residence permit card will arrive in the mail, and after another week, the yellow card should arrive as well.
