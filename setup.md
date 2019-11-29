@@ -44,7 +44,7 @@ nothing to commit, working tree clean
 
 ```
 
-Navigate to your newly creating folder using your file browser and open files in VS Code. You can [preview markdown]() files in VS Code, i.e. have them rendered as on github.
+Navigate to your newly creating folder using your file browser and open files in VS Code. You can [preview markdown](https://code.visualstudio.com/docs/languages/markdown) files in VS Code, i.e. have them rendered as on github.
 
 
 > Use `tab` for autocompleting file-names.
