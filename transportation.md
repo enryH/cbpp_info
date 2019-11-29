@@ -20,7 +20,7 @@ An anonymous Rejsekort can be issued to anyone and you can let anyone use it. Yo
 #### Rejsekort Personal
 
 Once you've got a Nem-ID **(link to Nem-ID article)**, you can get yourself a personal Nem-ID. They can be linked with your bank account so that they are automatically topped up once your balance gets too low.
-To one like these, you can also add a commuter area to your account. This is especially interesting for DTU students.
+To one like these, you can also add a commuter area to your account. This is especially useful for DTU students.
 
 ## Walking
 
