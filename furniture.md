@@ -1,4 +1,4 @@
-# How furnish your new home?
+# How to furnish your new home?
 Moving into an unfurnished flat can be a bit tedious, as you need to buy all the furniture on your own. We all know IKEA is a good choice for finding nice and cheap furniture, however, there are other possibilities and you will save a lot of money!
 
 ## IKEA 
@@ -29,14 +29,16 @@ To check the closest recycling place to your home, just google "recycling place 
 
 ## SECOND HAND SHOPS
 
-Second hand shops are common in Copenhagen, not only for clothes but also for home stuff. Have a look to these places as you could find useful things for home for a considerably reduced price. 
+Second hand shops are common in Copenhagen, not only for clothes but also for home stuff. Have a look at these places as you could find useful things for home for a considerably reduced price. 
 
 ## SECOND HAND STUFF ON THE INTERNET 
 
-The internet is a very nice place to look for second hand things, and checking is very easy as you can just look for what you want from your phone. 
+The internet is a very nice place to look for second hand things, and the process is very easy as you can just look for what you want from your phone. 
 
 Check Facebook groups like **FREE YOUR STUFF COPENHAGEN** where people give away a lot of things. Even though some people try to sell them, most of them are FOR FREE! People just want to get rid of these things asap. To get them, you will just have to write a comment on the post or directly contact the advertiser, but be quick as things go fast!
 
 You can also download the **DBA** app. It is a second hand app for Danish people where people sell or give away their stuff. Unfortunately, the app is only in danish, so you may want to learn a bit before using it!
+
+If you live at BaseCamp you should find **BaseCamp CPH Buy/Sell/Give** facebook group useful. Since many students are there for just a few months, someone is always selling some stuff they don't want to take back home.
 
 
