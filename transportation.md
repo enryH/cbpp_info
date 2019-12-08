@@ -15,11 +15,11 @@ When you enter a metro station or a bus, you will have to check your Rejsekort i
 
 #### Rejsekort Anonymous
 
-An anonymous Rejsekort can be issued to anyone and you can let anyone use it. You will have to top it up at a station.
+An anonymous Rejsekort can be issued to anyone and you can let anyone use it. You will have to top it up at a station. Keep in mind that you need to have a minimum of 70dkk on your anonymous Rejsekort in order to start a journey.
 
 #### Rejsekort Personal
 
-Once you've got a Nem-ID **(link to Nem-ID article)**, you can get yourself a personal Nem-ID. They can be linked with your bank account so that they are automatically topped up once your balance gets too low.
+Once you've got a Nem-ID **(link to Nem-ID article)**, you can get yourself a personal Nem-ID. They can be linked with your bank account so that they are automatically topped up once your balance gets too low. Minimum balance for a personal Rejsekort is 25dkk.
 To one like these, you can also add a commuter area to your account. This is especially useful for DTU students.
 
 ## Walking
