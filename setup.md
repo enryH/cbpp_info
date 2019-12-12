@@ -1,7 +1,7 @@
 ## Henry's setup
 
 ### Editor
-- [VSCode](https://code.visualstudio.com/) - it nicely previous MarkDown files and is relativly light-weight.
+- [VSCode](https://code.visualstudio.com/) - it nicely previews MarkDown files and is relativly light-weight.
 - Alternatives: [Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/), PyCharm, RStudio
 
 ## git
