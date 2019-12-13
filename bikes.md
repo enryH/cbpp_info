@@ -35,6 +35,20 @@ Summary:
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11054.020786611598!2d12.541131811485352!3d55.70797545500583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652525a91f3e1b5%3A0xaa26e97fc01db378!2sBuddha%20Bikes!5e0!3m2!1sda!2sdk!4v1574841319171!5m2!1sda!2sdk" width=100% height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 
+### Buying a (used) bike in dba.dk
+
+[DBA](https://www.dba.dk/) works like a Danish Craigslist, one can buy anything in there from private sellers. The website is only in Danish, so it only works if one is willing to translate and/or guess. However, hard work may pay off as there is a [rather wide selection of bikes](https://www.dba.dk/cykler/cykler-og-cykelanhaengere/reg-koebenhavn-og-omegn/) in there in varying conditions and prices. 
+
+From personal experience, Danes are open to people contacting them in English. You need to be signed up in DBA before contacting anyone though. Before confirming sales, one should of course practice common sense when buying stuff from people from online. Always agree to see what you're buying before paying for anything. Also, if you don't know how to check the condition of a bike, you may want to consider going to an actual bike shop. However, here are [some tips from Uniavisen for checking your bike before buying.](https://uniavisen.dk/en/5-tips-from-the-bike-mechanic-how-to-buy-a-good-used-bike/)
+
+For all second hand bikes you buy from private people, it is recommended you check the frame number from a [Danish police database, where stolen bikes can be reported](https://stelnummer.info/). A filed-off frame number is a huge red flag.
+
+Summary:
+- everything is in Danish, but you can still contact sellers in English
+- requires more dedication
+- you can score an awesome find if you're lucky
+
+
 ## Reparing your bike
 
 
@@ -44,3 +58,6 @@ Run currently mainly by a British student, Jernhersten provides tools and some a
 Normally you can go there on Tuesday and Thursday from 5pm to 7pm. Checkout their [Facebook-Site](https://www.facebook.com/CykelvaerkstedJernhesten).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5350.620452390576!2d12.539589458641405!3d55.6775327666618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf496c397c154eda3!2sJernhesten!5e0!3m2!1sde!2sdk!4v1574930084271!5m2!1sde!2sdk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+
+### Recommended reading
