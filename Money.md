@@ -1,8 +1,8 @@
 
-##Banking 
+# Banking 
 :credit_card:
 
-##Opening a bank account.
+## Opening a bank account.
 
 Open a bank account as soon as possible. It takes 7-10 days from application until they contact you. 
 They might have additional questions for you, this adds another few days. 
@@ -12,11 +12,11 @@ It will take another 7-10 after that to get a debit card and up to 10 more days 
 
 You will require a bank account (Nemkonto in danish) to receive your salary, and while this can be paid to a foreign account upon request, the currency conversion makes this expensive in most cases. 
 
-##Nemkonto
+## Nemkonto
 
 Nemkonto is the bank account your salary gets paid to, and the one the government has in your records linked to your CPR number. When you set up a bank account they ask if you want this to be your NemKonto.
 
-##University Recommended Deal - Danske Bank
+## University Recommended Deal - Danske Bank
 
 The university will recommend Danske Bank and have a deal with them for signing up, where if you are younger than a certain age you do not have to pay a sign up fee. This age limit can vary year to year. 
 Sign up is online and their website has English language capabilities.
@@ -38,7 +38,7 @@ Don't need yellow card for initial setup
 *Takes a while before they respond
 *Ask a lot of questions about your personal finances before opening the account.
 
-##Other banks
+## Other banks
 
 There are many banks in Denmark,
 Nordea would be an example of another international bank and they have lower fees than Danske Bank.
@@ -47,7 +47,7 @@ Also some banks offer interest on deposits in a salary account (Nemkonto), so it
 
 https://internationalcommunity.dk/en-US/Your-guide-to-DK/Coming-to-Denmark/Banking
 
-##NetBank
+## NetBank
 
 To get a NetBank you can usually apply online for most banks.
 To access NetBank you need a NemID (a set of access codes that enable you to access NetBank and several other services).
