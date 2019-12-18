@@ -1,15 +1,9 @@
----
-title: "Starting in Copenhagen"
-layout: single
-permalink: developing
-sidebar:
-  nav: "sitemap"
-toc: true
----
-
 # Copenhagen Bioscience PhD Programme
 
 Providing information for starting as a new PhD student from abroad in Copenhagen in the [Copenhagen Bioscience PhD Programme](https://cphbiosciencephd.org/) (CBPP). Createad as a training resource for learning git and collaborating using github.
+
+> Please create an [issue](https://github.com/enryH/cbpp_info/issues) if you have suggestions 
+> on further content or for general changes.
 
 ## Learning Goals
 - Create a [website](https://enryh.github.io/cbpp_info/) using [GitHub Pages](https://pages.github.com/)
@@ -20,8 +14,13 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 > No Coding involved. Only Text
 
 ## Resources
+
+### Minimal
 - [Minimal](https://github.com/pages-themes/minimal) Github Theme
 - Karl Bromans Tutorial on creating a [simple site](https://github.com/kbroman/simple_site)
+
+### Minimal Mistakes
+- [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Theme 
 
 ## What information to provide
 - [lifex website](https://www.joinlifex.com/copenhagen/moving-to-copenhagen-denmark) on how to get started in Copenhagen
@@ -33,17 +32,3 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 
 ## Setup
 See [description in setup.md](setup.md).
-
-### Who does what
-
-name(s)     | topic
----         | ---
-Heidi       | When to get money, expectation, reality
-Holda, Dora | Non-EU-Citizen
-Marina      | Housing stuff besides IKEA
-Tina        | BaseCamp
-Henry, Matthias | [Banking](banks.md)
-Henry, Mari, Matthias | Bikes
-
-
-> Ben had ready everything within one month
