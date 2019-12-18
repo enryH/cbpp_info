@@ -1,0 +1,36 @@
+# main links
+oursidebar:
+  - title: "Before you arrive"
+    url: registration
+  - title: "Starting in Copehagen"
+    url: README
+  - title: "register"
+    url: register
+    children:
+    - title: "non-EU"
+      url: non-EU
+    - title: "EU"
+      url: EU-citizen-registration
+    - title: "Nordic"
+      url: nordic
+  - title: "commodities"
+    url: topics
+    children:
+      - title: "furniture"
+        url: furniture
+      - title: "bikes"
+        url: bikes
+      - title: "banking"
+        url: banks
+      - title: "transportation"
+        url: transportation
+
+main:
+  - title: "Before arriving"
+    url: landingbefore
+  - title: "After arriving"
+    url: landingafter
+
+  
+
+  

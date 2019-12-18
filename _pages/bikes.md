@@ -1,3 +1,9 @@
+---
+title: Bikes
+layout: single
+permalink: _pages/bikes/
+---
+
 # Bikes
 
 You need a bike in Copenhagen. There is just no way around it.
