@@ -1,35 +1,40 @@
+main:
+  - title: "Before arriving"
+    url: /before-arriving
+  - title: "After arriving"
+    url: /after-arriving
+
 # main links
-oursidebar:
+sitemap:
+  - title: Home
+    url: /
   - title: "Before you arrive"
-    url: registration
-  - title: "Starting in Copehagen"
-    url: README
+    url: before-arriving
+  - title: "After arriving in Copehagen"
+    url: after-arriving
   - title: "register"
     url: register
     children:
-    - title: "non-EU"
-      url: non-EU
+    - title: "Non EU"
+      url: register/non-eu/
     - title: "EU"
-      url: EU-citizen-registration
+      url: register/EU-citizen/
     - title: "Nordic"
-      url: nordic
-  - title: "commodities"
-    url: topics
+      url: register/nordic
+  - title: "topics"
+    url: topics/
     children:
       - title: "furniture"
-        url: furniture
-      - title: "bikes"
-        url: bikes
+        url: topics/furniture
       - title: "banking"
-        url: banks
-      - title: "transportation"
-        url: transportation
-
-main:
-  - title: "Before arriving"
-    url: landingbefore
-  - title: "After arriving"
-    url: landingafter
+        url: topics/banking
+      - title: "Basecamp"
+        url: housing/basecamp/
+  - title: "transportation"
+    url: transportation
+    children:
+      - title: "bikes"
+        url: transportation/bikes
 
   
 

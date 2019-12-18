@@ -1,4 +1,13 @@
-# Transportation
+---
+title: Transportation
+layout: single
+permalink: transportation/
+sidebar:
+  nav: "sitemap"
+toc: true
+---
+
+<!-- # Transportation -->
 
 ## Bikes
 

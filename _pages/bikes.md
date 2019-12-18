@@ -1,10 +1,13 @@
 ---
 title: Bikes
 layout: single
-permalink: _pages/bikes/
+permalink: transportation/bikes/
+sidebar:
+  nav: "sitemap"
+toc: true
 ---
 
-# Bikes
+<!-- # Bikes -->
 
 You need a bike in Copenhagen. There is just no way around it.
 

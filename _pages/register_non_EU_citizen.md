@@ -1,4 +1,13 @@
-# What to know as a non-EU citizen
+---
+title: Register an non EU citizen
+layout: single
+permalink: register/non-eu/
+sidebar:
+  nav: "sitemap"
+toc: true
+---
+
+<!-- # What to know as a non-EU citizen -->
 Getting settled in Copenhagen is a long and confusing process, but hopefully, this page can demystify it for you a little bit. 
 
 ## Getting a Visa and CPR number
