@@ -1,0 +1,41 @@
+main:
+  - title: "Before arriving"
+    url: /before-arriving
+  - title: "After arriving"
+    url: /after-arriving
+
+# main links
+sitemap:
+  - title: Home
+    url: /
+  - title: "Before you arrive"
+    url: before-arriving
+  - title: "After arriving in Copehagen"
+    url: after-arriving
+  - title: "register"
+    url: register
+    children:
+    - title: "Non EU"
+      url: register/non-eu/
+    - title: "EU"
+      url: register/EU-citizen/
+    - title: "Nordic"
+      url: register/nordic
+  - title: "topics"
+    url: topics/
+    children:
+      - title: "furniture"
+        url: topics/furniture
+      - title: "banking"
+        url: topics/banking
+      - title: "Basecamp"
+        url: housing/basecamp/
+  - title: "transportation"
+    url: transportation
+    children:
+      - title: "bikes"
+        url: transportation/bikes
+
+  
+
+  

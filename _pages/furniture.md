@@ -1,4 +1,13 @@
-# How to furnish your new home?
+---
+title: Furniture
+layout: single
+permalink: topics/furniture/
+sidebar:
+  nav: "sitemap"
+toc: true
+---
+
+<!-- # How to furnish your new home? -->
 Moving into an unfurnished flat can be a bit tedious, as you need to buy all the furniture on your own. We all know IKEA is a good choice for finding nice and cheap furniture, however, there are other possibilities and you will save a lot of money!
 
 ## IKEA 

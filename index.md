@@ -1,6 +1,15 @@
-# Copenhagen Bioscience PhD Program
+---
+title: "Starting in Copenhagen"
+layout: single
+permalink: developing
+sidebar:
+  nav: "sitemap"
+toc: true
+---
 
-Providing information for starting as a new PhD student from abroad in Copenhagen in the [Copenhagen Bioscience PhD Program](https://cphbiosciencephd.org/) (CBPP). Createad as a training resource for learning git and collaborating using github.
+# Copenhagen Bioscience PhD Programme
+
+Providing information for starting as a new PhD student from abroad in Copenhagen in the [Copenhagen Bioscience PhD Programme](https://cphbiosciencephd.org/) (CBPP). Createad as a training resource for learning git and collaborating using github.
 
 ## Learning Goals
 - Create a [website](https://enryh.github.io/cbpp_info/) using [GitHub Pages](https://pages.github.com/)
