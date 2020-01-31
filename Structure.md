@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: single
-permalink: /index
+permalink: /
 sidebar:
   nav: "sitemap"
 toc: true
