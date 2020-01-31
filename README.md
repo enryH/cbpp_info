@@ -15,6 +15,23 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 
 > No Coding involved. Only Text
 
+## Setup
+See [description in setup.md](setup.md) how to get started contributing.
+
+
+
+## Provided Information 
+- [lifex website](https://www.joinlifex.com/copenhagen/moving-to-copenhagen-denmark) on how to get started in Copenhagen
+  - put into perspective what you have to do
+  - give a priority of different options
+- Housing ([Basecamp](_pages/basecamp.md), Housing Foundation, [Private Housing](_pages/housing_no_basecamp.md))
+- Arriving as [Nordic citizen](_pages/register_nordic.md), [EU citizen](_pages/register_EU_citizen.md) and [Non-EU citizen](_pages/register_non_EU_citizen.md)
+- ISM vs Borgerservice
+- [banks](_pages/banks.md)
+- [transportation](_pages/transportation.md), including [bikes](_pages/bikes.md)
+- [furniture](_pages/furniture.md)
+
+
 ## Resources
 
 ### Minimal
@@ -24,13 +41,3 @@ Providing information for starting as a new PhD student from abroad in Copenhage
 ### Minimal Mistakes
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) Theme 
 
-## What information to provide
-- [lifex website](https://www.joinlifex.com/copenhagen/moving-to-copenhagen-denmark) on how to get started in Copenhagen
-  - put into perspective what you have to do
-  - give a priority of different options
-- Housing (Basecamp, Housing Foundation, Private Housing)
-- Arriving as EU citizen
-- ISM vs Borgerservice
-
-## Setup
-See [description in setup.md](setup.md).
