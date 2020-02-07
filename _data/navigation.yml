@@ -15,25 +15,25 @@ sitemap:
   - title: "register"
     url: register
     children:
-    - title: "Non EU"
+    - title: "NON EU"
       url: register/non-eu/
     - title: "EU"
       url: register/EU-citizen/
-    - title: "Nordic"
+    - title: "NORDIC"
       url: register/nordic
   - title: "topics"
     url: topics/
     children:
-      - title: "furniture"
+      - title: "FURNITURE"
         url: topics/furniture
-      - title: "banking"
+      - title: "BANKING"
         url: topics/banking
-      - title: "Basecamp"
+      - title: "BASECAMP"
         url: housing/basecamp/
   - title: "transportation"
     url: transportation
     children:
-      - title: "bikes"
+      - title: "BIKES"
         url: transportation/bikes
 
   

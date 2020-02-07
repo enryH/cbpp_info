@@ -8,7 +8,7 @@ toc: true
 ---
 
 <!-- # Banking  -->
-:credit_card:
+<!-- :credit_card: ToDo replace with a nice symbol-->
 
 In order to get paid, which is very important here in Denmark, you need a Danish bank account. Here are some of the available options we tried and some general things to keep in mind.
 
