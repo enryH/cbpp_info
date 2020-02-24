@@ -1,3 +1,11 @@
+---
+title: PrivateHousing
+layout: single
+permalink: housing/not-housing-foudation/
+sidebar:
+  nav: "sitemap"
+toc: true
+---
 
 
 ## Apartment - life without basecamp

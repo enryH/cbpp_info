@@ -24,6 +24,8 @@ sitemap:
   - title: "topics"
     url: topics/
     children:
+      - title: HOUSING
+        url: housing/
       - title: "FURNITURE"
         url: topics/furniture
       - title: "BANKING"

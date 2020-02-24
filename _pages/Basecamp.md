@@ -4,7 +4,7 @@ layout: single
 permalink: housing/basecamp/
 sidebar:
   nav: "sitemap"
-toc: true
+# toc: true
 ---
 
 
