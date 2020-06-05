@@ -24,7 +24,7 @@ Hello fellow CPH beginner! Here we have a handy guide for you to get started in 
 - [EU-citizens](register_EU_citizen.md)
 - [Nordic country citizens](register_nordic.md)
 
-## New in town
+## [New in town](arriving_after.md)
 
 - [Banking](banks.md)
 - [Transportation](transportation.md)
