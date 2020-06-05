@@ -13,18 +13,18 @@ toc: true
 <!-- # Welcome -->
 Hello fellow CPH beginner! Here we have a handy guide for you to get started in your new city. It has been created by other CPH Bioscience PhD students and is largely based on personal experiences and aims to make getting settled in Copenhagen as easy as possible. Please follow the links below to get to the respective articles.
 
-## Before you arrive-housing
+## [Before you arrive-housing](housing.md)
 
-- Housing Foundation (BaseCamp and other possibilities)
-- Private appartment/ shared flats etc.
+- Housing Foundation ([BaseCamp](Basecamp.md) and other possibilities)
+- [Private appartment/ shared flats etc.](Housing_no_basecamp.md)
 
-## Before you arrive - registration
+## [Before you arrive - registration](register.md)
 
-- Non-EU-citizens
-- EU-citizens
-- Nordic country citizens
+- [Non-EU-citizens](register_non_EU_citizen.md)
+- [EU-citizens](register_EU_citizen.md)
+- [Nordic country citizens](register_nordic.md)
 
 ## New in town
 
-- Banking
-- Transportation
+- [Banking](banks.md)
+- [Transportation](transportation.md)
