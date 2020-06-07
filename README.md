@@ -1,3 +1,5 @@
+> Moved to [https://github.com/cphbiosciencephd/](https://github.com/cphbiosciencephd/)
+
 <!-- Github explanations -->
 # Copenhagen Bioscience PhD Programme 
 
