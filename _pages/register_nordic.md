@@ -9,5 +9,5 @@ toc: true
 
 ## Register as Nordic citizen
 
-> As a Swedisch, Norwegian or Finnish citizen you are partly already registered.
+> As a Swedish, Norwegian or Finnish citizen you are partly already registered.
 > More details follow.

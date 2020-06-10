@@ -18,7 +18,7 @@ Nemkonto is the bank account your salary gets paid to, and the one the governmen
 
 ## Important: Nem-ID!
 
-There are two ways to get your Nem-ID **(Link this to the Nem-ID article)** once you've got your CPR number:
+There are two ways to get your Nem-ID once you've got your CPR number:
 - Through the citizen service ([Borger Service](https://www.nemid.nu/dk-en/get_started/request_nemid/))
 - Through your bank
 
@@ -83,11 +83,11 @@ Don't need yellow card for initial setup
 ### Other banks
 
 There are many banks in Denmark,
-Nordea would be an example of another international bank and they have lower fees than Danske Bank.
+[Nordea](https://www.nordea.dk/) would be an example of another international bank and they have lower fees than Danske Bank.
 If you join an employment union you can get special banking offers.
 Also some banks offer interest on deposits in a salary account (Nemkonto), so it may be worth shopping around for what suits you best. This list has some info on the banks available:
 
-https://internationalcommunity.dk/en-US/Your-guide-to-DK/Coming-to-Denmark/Banking
+[internationalcommunity.dk](https://internationalcommunity.dk/en-US/Your-guide-to-DK/Coming-to-Denmark/Banking)
 
 ### NetBank
 
